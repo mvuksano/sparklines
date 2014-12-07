@@ -1,0 +1,31 @@
+{
+  "name": "sparklines",
+  "version": "1.0.0",
+  "description": "Generate sparklines",
+  "homepage": "http://markovuksanovic.github.io/sparklines",
+  "main": "sparklines.html",
+  "authors": [
+    "Marko Vuksanovic"
+  ],
+  "license": "Apache2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "../"
+  ],
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "chart",
+    "charts",
+    "sparklines"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#>=0.5.1 <1.0.0",
+    "core-ajax": "Polymer/core-ajax#>=0.5.1 <1.0.0"
+  }
+}
